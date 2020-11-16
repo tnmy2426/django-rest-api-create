@@ -5,4 +5,7 @@
 *.pyc
 __pycache__/
 
+db.sqlite3
+db.sqlite3-journal
+media
 # Front-end files ignoring for React

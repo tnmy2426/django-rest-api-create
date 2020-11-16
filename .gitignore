@@ -1,0 +1,8 @@
+# Back-end files ignoring for django
+
+*.log
+*.pot
+*.pyc
+__pycache__/
+
+# Front-end files ignoring for React
